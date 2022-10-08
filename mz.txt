@@ -1,1 +1,3 @@
-http://mz.qinglin.co/
+https://ym.qinglin.co/
+https://ym.qinglin.co/login
+https://ym.qinglin.co/login?act=reg
